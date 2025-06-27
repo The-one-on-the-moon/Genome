@@ -1,2 +1,2 @@
 # Genome
-This resp contains some test file about Genome
+This repository contains some test file about Genome
